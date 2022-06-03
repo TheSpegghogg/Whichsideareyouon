@@ -1,0 +1,15 @@
+state={
+	id=836
+	name="STATE_836"
+	provinces={
+		1972 5044 10645 10914 12552 
+	}
+	history={
+		owner = ROA
+		add_core_of = ROA
+		}
+	manpower=136000
+	buildings_max_level_factor=1.000
+	state_category=rural
+	local_supplies=0.000
+}

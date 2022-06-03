@@ -1,0 +1,15 @@
+state={
+	id=835
+	name="STATE_835"
+	provinces={
+		880 3687 3802 3850 6705 6899 9662 9789 11769 11789 11800 
+	}
+	history={
+		owner = USR
+		add_core_of = USR
+		}
+	manpower=2680000
+	buildings_max_level_factor=1.000
+	state_category=city
+	local_supplies=0.000
+}
