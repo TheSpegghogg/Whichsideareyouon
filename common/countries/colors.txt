@@ -1,5 +1,7 @@
 #reload countrycolors
 
+# WSAYO Tags
+
 ROA = {
 	color = rgb { 80 107 134 }
 	color_ui = rgb { 80 107 134 }
@@ -19,6 +21,13 @@ USR = {
 	color = rgb { 128 25 25 }
 	color_ui = rgb { 128 25 25 }
 }
+
+FNM = {
+	color = rgb { 41 48 112 }
+	color_ui = rgb { 41 48 112 }
+}
+
+
 
 GER = {
 	color = HSV { 0.1 0.15 0.4 }

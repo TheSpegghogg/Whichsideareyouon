@@ -1,3 +1,13 @@
+# WSAYO Tags
+
+USR = "countries/United Socialist American Republics.txt"
+ASR = "countries/African Socialist Republics.txt"
+TEX = "countries/Texas.txt"
+ROA = "countries/Republic of America.txt"
+HGU = "countries/Hungarian Republic.txt"
+FNM = "countries/Finnish Military Government.txt"
+
+
 GER	= "countries/Germany.txt"
 ENG = "countries/United Kingdom.txt"
 SOV = "countries/Soviet Union.txt"
@@ -238,7 +248,3 @@ KHI = "countries/Khiva.txt"
 UDM = "countries/Udmurtia.txt"
 CHU = "countries/Chuvashia.txt"
 MEL = "countries/Mariel.txt"
-USR = "countries/United Socialist American Republics.txt"
-ASR = "countries/African Socialist Republics.txt"
-TEX = "countries/Texas.txt"
-ROA = "countries/Republic of America.txt"
