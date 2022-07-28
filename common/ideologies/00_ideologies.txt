@@ -27,7 +27,7 @@ ideologies = {
 			"FACTION_NAME_COMMUNIST_5"
 		}
 
-		color = { 55 0 0 }
+		color = { 75 0 0 }
 
 		war_impact_on_world_tension = 0.75		#Commie less threatening
 		faction_impact_on_world_tension = 0.5
@@ -89,7 +89,7 @@ ideologies = {
 			"FACTION_NAME_COMMUNIST_5"
 		}
 
-		color = { 100 0 0 }
+		color = { 125 0 0 }
 
 		war_impact_on_world_tension = 0.75		#Commie less threatening
 		faction_impact_on_world_tension = 0.5
@@ -348,7 +348,7 @@ ideologies = {
 			"FACTION_NAME_NONALIGNED_5"
 		}
 
-		color = { 0 0 141 }
+		color = { 107 107 138 }
 
 
 		war_impact_on_world_tension = 0.25		#no major danger
