@@ -1,4 +1,6 @@
-﻿capital = 43
+﻿set_cosmetic_tag = HUN_SOV
+
+capital = 43
 
 oob = "HUN_1936"
 
@@ -40,15 +42,7 @@ if = {
 	}
 }
 
-if = {
-	limit = {
-		has_dlc = "Death or Dishonor"
-	}
-	add_ideas = {
-		disarmed_nation
-		HUN_treaty_of_triannon
-	}
-}
+
 
 if = {
 	limit = {
@@ -205,10 +199,11 @@ if = {
 
 set_politics = {
 	ruling_party = communism
-	last_election = "1935.3.31"
+	last_election = "1933.3.5"
 	election_frequency = 48
-	elections_allowed = yes
+	elections_allowed = no
 }
+
 set_popularities = {
 	communism = 100
 }

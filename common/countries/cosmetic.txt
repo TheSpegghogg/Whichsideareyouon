@@ -1,6 +1,38 @@
 
 # WSAYO Cosmetic Tags
 
+ALB_SOV = {
+	color = rgb { 163 34 92 }
+	color_ui = rgb { 128 0 128 }
+}
+YUG_SOV = {
+	color = rgb { 163 34 92 }
+	color_ui = rgb { 128 0 128 }
+}
+FIN_SOV = {
+	color = rgb { 168 52 63 }
+	color_ui = rgb { 128 0 128 }
+}
+CZE_SOV = {
+	color = rgb { 168 52 63 }
+	color_ui = rgb { 128 0 128 }
+}
+BUL_SOV = {
+	color = rgb { 168 52 63 }
+	color_ui = rgb { 128 0 128 }
+}
+ROM_SOV = {
+	color = rgb { 168 52 63 }
+	color_ui = rgb { 128 0 128 }
+}
+HUN_SOV = {
+	color = rgb { 168 52 63 }
+	color_ui = rgb { 128 0 128 }
+}
+POL_SOV = {
+	color = rgb { 168 52 63 }
+	color_ui = rgb { 128 0 128 }
+}
 BAY_UK_OCCUPATION = {
     color = rgb { 229 98 133 }
     color_ui = rgb { 229 98 1331 }
@@ -12,8 +44,8 @@ WUR_FRENCH_OCCUPATION = {
 }
 
 GER_SOVIET_OCCUPATION = {
-	color = rgb { 224 53 53 }
-    color_ui = rgb { 224 53 53 }
+	color = rgb { 168 52 63 }
+	color_ui = rgb { 128 0 128 }
 }
 
 MAL_UK = {

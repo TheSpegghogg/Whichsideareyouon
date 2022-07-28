@@ -2,6 +2,16 @@
 
  # WSAYO Cosmetic Tags
  
+ YUG_SOV:0 "Socialist Federative Republic of Yugoslavia"
+ ALB_SOV:0 "People's Socialist Republic of Albania"
+
+ ROM_SOV:0 "Romanian People's Republic"
+ BUL_SOV:0 "Bulgarian People's Republic"
+ HUN_SOV:0 "Hungarian People's Republic"
+ FIN_SOV:0 "Finnish People's Republic"
+ CZE_SOV:0 "Czechoslovak Republic"
+ POL_SOV:0 "Republic of Poland" 
+
  BAY_UK_OCCUPATION:0 "British Occupation Zone"
  BAY_UK_OCCUPATION_DEF:0 "the British Occupation Zone"
  WUR_FRENCH_OCCUPATION:0 "French Occupation Zone"

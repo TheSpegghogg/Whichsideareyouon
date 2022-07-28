@@ -1,4 +1,6 @@
-﻿capital = 10
+﻿set_cosmetic_tag = POL_SOV
+
+capital = 10
 
 oob = "POL_1936"
 if = {
@@ -78,18 +80,6 @@ if = {
 	}
 }
 
-if = {
-	limit = {
-		has_dlc = "Poland: United and Ready"
-	}
-	add_ideas = {
-		uncontrolled_exports
-		POL_april_constitution_1
-		POL_looming_peasants_strike
-		POL_sanation_left_opposition_1
-		POL_sanation_right_opposition_1
-	}
-}
 
 
 85 = {
@@ -264,10 +254,11 @@ set_convoys = 10
 
 set_politics = {
 	ruling_party = communism
-	last_election = "1935.9.8"
-	election_frequency = 36
+	last_election = "1933.3.5"
+	election_frequency = 48
 	elections_allowed = no
 }
+
 set_popularities = {
 	communism = 100
 }
