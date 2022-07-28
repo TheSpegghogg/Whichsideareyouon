@@ -6,6 +6,7 @@ TEX = "countries/Texas.txt"
 ROA = "countries/Republic of America.txt"
 HGU = "countries/Hungarian Republic.txt"
 FNM = "countries/Finnish Military Government.txt"
+FRS = "countries/Friesland.txt"
 
 
 GER	= "countries/Germany.txt"

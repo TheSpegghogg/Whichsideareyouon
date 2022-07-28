@@ -1,6 +1,14 @@
 
 # WSAYO Cosmetic Tags
 
+DEN_SOV = {
+	color = rgb { 168 52 63 }
+	color_ui = rgb { 128 0 128 }
+}
+FRS_SOV = {
+	color = rgb { 168 52 63 }
+	color_ui = rgb { 128 0 128 }
+}
 ALB_SOV = {
 	color = rgb { 163 34 92 }
 	color_ui = rgb { 128 0 128 }

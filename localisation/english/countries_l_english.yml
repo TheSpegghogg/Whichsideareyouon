@@ -1,5 +1,10 @@
 ﻿l_english:
 
+ FRS:0 ""Friesland"
+ FRS_communism:0 "Dutch People's Republic"
+ FRS_communism_DEF:0 "the Dutch People's Republic"
+ FRS_ADJ:0 "Dutch"
+
  ROA_fascism:0 "American Empire"
  ROA_fascism_DEF:0 "the American Empire"
  ROA_democratic:0 "Republic of America"

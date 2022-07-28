@@ -2,13 +2,14 @@
 
  # WSAYO Cosmetic Tags
  
+ DEN_SOV:0 "Danish People's Republic"
  YUG_SOV:0 "Socialist Federative Republic of Yugoslavia"
  ALB_SOV:0 "People's Socialist Republic of Albania"
 
  ROM_SOV:0 "Romanian People's Republic"
  BUL_SOV:0 "Bulgarian People's Republic"
  HUN_SOV:0 "Hungarian People's Republic"
- FIN_SOV:0 "Finnish People's Republic"
+ FIN_SOV:0 "Finnish Democratic People's Republic"
  CZE_SOV:0 "Czechoslovak Republic"
  POL_SOV:0 "Republic of Poland" 
 
