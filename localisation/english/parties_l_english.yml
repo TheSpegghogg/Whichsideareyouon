@@ -1,5 +1,7 @@
 ﻿l_english:
-  
+ 
+ FRS_communism_party:0 "CPN"
+ FRS_communism_party_long:0 "Communistische Partij van Nederland"
  GER_fascism_party:0 "NSDAP"
  GER_fascism_party_long:0 "Nationalsozialistische Deutsche Arbeiterpartei"
  GER_communism_party:0 "KPD"
@@ -293,12 +295,14 @@
  NOR_democratic_party_long:0 "Arbeiderpartiet"
  NOR_fascism_party:0 "NS"
  NOR_fascism_party_long:0 "Nasjonal Samling"
+ HOL_conservative_democracy_party:0 "ARP"
+ HOL_conservative_democracy_party_long:0 "Anti-Revolutionaire Partij"
+ HOL_liberal_democracy_party:0 "VVD"
+ HOL_liberal_democracy_party_long:0 "Volkspartij voor Vrijheid en Democratie"
  HOL_neutrality_party:1 "NVB"
  HOL_neutrality_party_long:1 "Nederlandse Volksbeweging"
  HOL_communism_party:0 "CPN"
  HOL_communism_party_long:0 "Communistische Partij Nederland"
- HOL_democratic_party:1 "ARP"
- HOL_democratic_party_long:1 "Anti-Revolutionaire Partij"
  HOL_fascism_party:0 "NSB"
  HOL_fascism_party_long:1 "Nationaal-Socialistische Beweging"
  HOL_CHU_party:0 "CHU"

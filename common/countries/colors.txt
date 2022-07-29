@@ -2,13 +2,17 @@
 
 # WSAYO Tags
 
+FNA = {
+	color = rgb { 41 48 112 }
+	color_ui = rgb { 255 255 255 }
+}
 ROA = {
 	color = rgb { 80 107 134 }
 	color_ui = rgb { 80 107 134 }
 }
 
 TEX = {
-	color = rgb { 30 88 107 }
+	color = rgb { 0 88 107 }
 	color_ui = rgb { 30 88 107 }
 }
 

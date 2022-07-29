@@ -1,6 +1,10 @@
 
 # WSAYO Cosmetic Tags
 
+FNA_SOV = {
+	color = rgb { 168 52 63 }
+	color_ui = rgb { 128 0 128 }
+}
 DEN_SOV = {
 	color = rgb { 168 52 63 }
 	color_ui = rgb { 128 0 128 }
