@@ -17,10 +17,6 @@ ALB_SOV = {
 	color = rgb { 163 34 92 }
 	color_ui = rgb { 128 0 128 }
 }
-YUG_SOV = {
-	color = rgb { 163 34 92 }
-	color_ui = rgb { 128 0 128 }
-}
 FIN_SOV = {
 	color = rgb { 168 52 63 }
 	color_ui = rgb { 128 0 128 }
@@ -46,13 +42,13 @@ POL_SOV = {
 	color_ui = rgb { 128 0 128 }
 }
 BAY_UK_OCCUPATION = {
-    color = rgb { 229 98 133 }
-    color_ui = rgb { 229 98 1331 }
+    color = rgb { 198 28 15 }
+    color_ui = rgb { 198 28 15 }
 }
 
 WUR_FRENCH_OCCUPATION = {
-    color = rgb { 67 130 211 }
-    color_ui = rgb { 67 130 211 }
+    color = rgb { 64 78 158 }
+    color_ui = rgb { 64 78 158 }
 }
 
 GER_SOVIET_OCCUPATION = {

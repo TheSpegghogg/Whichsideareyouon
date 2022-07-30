@@ -1,5 +1,4 @@
-﻿set_cosmetic_tag = YUG_SOV
-
+﻿
 capital = 107
 
 if = {

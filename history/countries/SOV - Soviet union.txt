@@ -27,16 +27,6 @@ if = {
 		freedom_level = 0.35
 	}
 	set_autonomy = {
-		target = ALB
-		autonomous_state =  autonomy_puppet
-		freedom_level = 0.4
-	}
-	set_autonomy = {
-		target = YUG
-		autonomous_state =  autonomy_puppet
-		freedom_level = 0.4
-	}
-	set_autonomy = {
 		target = GER
 		autonomous_state =  autonomy_puppet
 		freedom_level = 0.2
@@ -64,8 +54,6 @@ if = {
 	else = {
 		puppet = CZE
 		puppet = POL
-		puppet = ALB
-		puppet = YUG
 		puppet = ROM
 		puppet = GER
 		puppet = FRS
@@ -1277,7 +1265,7 @@ set_popularities = {
 	communism = 88
 }
 
-create_faction = "Warsaw Pact"
+create_faction = "Eastern bloc"
 add_to_faction = SOV
 add_to_faction = MON
 add_to_faction = TAN
@@ -1287,8 +1275,6 @@ add_to_faction = POL
 add_to_faction = CZE
 add_to_faction = BUL
 add_to_faction = GER
-add_to_faction = ALB
-add_to_faction = YUG
 add_to_faction = FNA
 add_to_faction = FIN
 
