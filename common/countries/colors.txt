@@ -12,18 +12,18 @@ ROA = {
 }
 
 TEX = {
-	color = rgb { 0 88 107 }
-	color_ui = rgb { 30 88 107 }
+	color = rgb { 178 82 17 }
+	color_ui = rgb { 178 82 17 }
 }
 
 ASR = {
-	color = rgb { 143 47 47 }
-	color_ui = rgb { 214 70 70 }
+	color = rgb { 165 47 47 }
+	color_ui = rgb { 165 47 47 }
 }
 
 USR = {
-	color = rgb { 128 25 25 }
-	color_ui = rgb { 128 25 25 }
+	color = rgb { 143 47 47 }
+	color_ui = rgb { 143 47 47 }
 }
 
 FNM = {
@@ -293,8 +293,8 @@ YUN = {
 	color_ui = rgb { 222 247 198 }
 }
 USA = {
-	color = rgb { 48 88 171 }
-	color_ui = rgb { 87 160 255 }
+	color = rgb { 36 70 145 }
+	color_ui = rgb { 36 70 145 }
 }
 MON = {
 	#color = HSV { 0.1 0.15 0.4 }

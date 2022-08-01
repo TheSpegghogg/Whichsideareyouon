@@ -56,22 +56,22 @@ set_convoys = 20
 
 
 set_politics = {
-	ruling_party = communism
+	ruling_party = socialism
 	last_election = "1936.1.1"
 	election_frequency = 48
 	elections_allowed = no
 }
 
 set_popularities = {
-	communism = 80
-	socialism = 20
+	communism = 25
+	socialism = 75
 }
 
 create_country_leader = {
 	name = "Norman Thomas"
 	desc = ""
 	picture = gfx/leaders/USR/Portrait_USR_Norman_Thomas.dds
-	ideology = marxistleninism
+	ideology = socialist_ideology
 	traits = {
 		#
 	}
