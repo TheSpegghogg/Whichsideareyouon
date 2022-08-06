@@ -1,6 +1,8 @@
 ﻿capital = 291
 
-oob = "IRQ_1936"
+set_cosmetic_tag = IRQ_ENG
+
+oob = ""
 
 # Starting tech
 set_technology = {

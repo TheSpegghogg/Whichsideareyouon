@@ -8,6 +8,7 @@ HGU = "countries/Hungarian Republic.txt"
 FNM = "countries/Finnish Military Government.txt"
 FRS = "countries/Friesland.txt"
 FNA = "countries/Finnmark.txt"
+WAU = "countries/West Africa.txt"
 
 GER	= "countries/Germany.txt"
 ENG = "countries/United Kingdom.txt"

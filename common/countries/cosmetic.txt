@@ -1,6 +1,15 @@
 
 # WSAYO Cosmetic Tags
 
+PAL_british_protectorate = {
+	color = rgb { 153 23 12 }
+	color_ui = rgb { 255 73 121 }
+}
+
+IRQ_ENG = {
+	color = rgb { 153 23 12 }
+	color_ui = rgb { 255 73 121 }
+}
 FNA_SOV = {
 	color = rgb { 168 52 63 }
 	color_ui = rgb { 128 0 128 }

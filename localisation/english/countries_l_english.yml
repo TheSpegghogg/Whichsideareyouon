@@ -2,6 +2,11 @@
 
  FNA:0 "Finnmark"
  
+ WAU:0 "West African Federation"
+ WAU_authoritarian_democracy:0 "West African Federation"
+ WAU_authoritarian_democracy_DEF:0 "West African Federation"
+ WAU_DEF:0 "the West African Federation"
+ WAU_ADJ:0 "West African"
 
  FRS:0 ""Friesland"
  FRS_communism:0 "Dutch People's Republic"
@@ -64,13 +69,10 @@
  USR_neutrality_DEF:2 "America"
  USR_communism:0 "United Socialist American Republics"
  USR_communism_DEF:0 "the United Socialist American Republics"
- USR_socialism:0 "United Socialist American Republics"
- USR_socialism_DEF:0 "the United Socialist American Republics"
  USR_fascism_ADJ:0 "American"
  USR_democratic_ADJ:0 "American"
  USR_neutrality_ADJ:0 "American"
  USR_communism_ADJ:0 "American"
- USR_socialism_ADJ:0 "American"
  USR:0 "America"
  USR_DEF:0 "America"
  USR_ADJ:0 "American"

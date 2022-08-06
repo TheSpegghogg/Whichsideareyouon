@@ -2,6 +2,10 @@
 
 # WSAYO Tags
 
+WAU = {
+	color = rgb { 33 54 175 }
+	color_ui = rgb { 33 54 175 }
+}
 FNA = {
 	color = rgb { 41 48 112 }
 	color_ui = rgb { 255 255 255 }
@@ -12,18 +16,18 @@ ROA = {
 }
 
 TEX = {
-	color = rgb { 178 82 17 }
-	color_ui = rgb { 178 82 17 }
+	color = rgb { 0 88 107 }
+	color_ui = rgb { 30 88 107 }
 }
 
 ASR = {
-	color = rgb { 165 47 47 }
-	color_ui = rgb { 165 47 47 }
+	color = rgb { 143 47 47 }
+	color_ui = rgb { 214 70 70 }
 }
 
 USR = {
-	color = rgb { 143 47 47 }
-	color_ui = rgb { 143 47 47 }
+	color = rgb { 128 25 25 }
+	color_ui = rgb { 128 25 25 }
 }
 
 FNM = {
@@ -225,8 +229,8 @@ JAP = {
 	color_ui = hsv { 0.05 0.25 1.2 }
 }
 LIB = {
-	color = rgb { 152 130 191 }
-	color_ui = rgb { 198 169 248 }
+	color = rgb { 97 115 137 }
+	color_ui = rgb { 97 115 137 }
 }
 MEX = {
 	color = rgb { 104 152 83 }
@@ -261,8 +265,8 @@ PRU = {
 	color_ui = rgb { 255 246 255 }
 }
 SAF = {
-	color = rgb { 195 107 160 }
-	color_ui = rgb { 198 169 248 }
+	color = rgb { 142 69 133 }
+	color_ui = rgb { 142 69 133 }
 }
 SAU = {
 	color = rgb { 171 190 152 }
@@ -293,8 +297,8 @@ YUN = {
 	color_ui = rgb { 222 247 198 }
 }
 USA = {
-	color = rgb { 36 70 145 }
-	color_ui = rgb { 36 70 145 }
+	color = rgb { 48 88 171 }
+	color_ui = rgb { 87 160 255 }
 }
 MON = {
 	#color = HSV { 0.1 0.15 0.4 }
@@ -373,8 +377,8 @@ LBA = {
 }
 
 EGY = {
-	color = rgb { 230 230 70 }
-	color_ui = rgb { 230 230 70 }
+	color = rgb { 46 145 56 }
+	color_ui = rgb { 46 145 56 }
 }
 
 PAL = {

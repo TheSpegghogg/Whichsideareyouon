@@ -149,15 +149,13 @@ if = {
 
 set_convoys = 25
 set_politics = {
-	ruling_party = democratic
+	ruling_party = conservative_democracy
 	last_election = "1933.5.17"
 	election_frequency = 60
 	elections_allowed = yes
 }
 set_popularities = {
-	democratic = 75
-	fascism = 20
-	communism = 5
+	conservative_democracy = 100
 }
 
 recruit_character = SAF_j_b_m_hertzog
@@ -182,21 +180,3 @@ recruit_character = SAF_e_g_jansen
 recruit_character = SAF_nicolaas_havenga
 recruit_character = SAF_sir_patrick_duncan
 recruit_character = SAF_abram_fischer
-
-1939.1.1 = {
-	set_politics = {
-		ruling_party = democratic
-		last_election = "1938.5.18"
-		election_frequency = 60
-		elections_allowed = yes
-	}
-	set_popularities = {
-		democratic = 100
-	}
-
-	#retire_character = SAF_j_b_m_hertzog
-	# Took office 5 days after this date
-	recruit_character = SAF_jan_smuts
-	promote_character = SAF_jan_smuts
-	retire_character = SAF_j_b_m_hertzog
-}
