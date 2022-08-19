@@ -90,6 +90,11 @@ set_politics = {
 }
 set_popularities = {
 	conservative_democracy = 100
+	communism = 24
+	socialism = 10
+	social_democracy = 6
+	liberal_democracy = 10
+	ultranationalism = 4
 }
 
 add_ideas = {
