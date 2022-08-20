@@ -1,0 +1,18 @@
+﻿#ROA Events
+
+add_namespace = ROA_starters
+
+country_event = {
+	id = ROA_starters.1 #Memories
+	title = ROA_starters.1.t
+	desc = ROA_starters.1.d
+	
+	picture = GFX_
+
+	is_triggered_only = yes
+
+	option = {
+		name = ROA_starters.1.a
+		add_political_power = 20
+	}
+}

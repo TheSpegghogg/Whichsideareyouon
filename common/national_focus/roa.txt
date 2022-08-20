@@ -1,0 +1,148 @@
+focus_tree = {
+	id = republic_of_america
+	country = {
+		factor = 0
+		modifier = {
+			add = 10
+			tag = ROA
+		}
+	}
+	default = no
+	focus = {
+		id = ROA_memorial_day
+		icon = GFX_
+		cost = 1.00
+		x = 8
+		y = 0
+	
+	}
+	focus = {
+		id = ROA_first_president
+		icon = GFX_
+		cost = 1.00
+		x = 8
+		y = 1
+		prerequisite = {
+			focus = ROA_memorial_day
+		}
+	
+	}
+	focus = {
+		id = ROA_democrat_coworkers
+		icon = GFX_
+		cost = 2.00
+		x = 6
+		y = 2
+		prerequisite = {
+			focus = ROA_first_president
+		}
+	
+	}
+	focus = {
+		id = ROA_republican_allies
+		icon = GFX_
+		cost = 1.00
+		x = 8
+		y = 2
+		prerequisite = {
+			focus = ROA_first_president
+		}
+	
+	}
+	focus = {
+		id = ROA_progressive_frenemies
+		icon = GFX_
+		cost = 2.00
+		x = 10
+		y = 2
+		prerequisite = {
+			focus = ROA_first_president
+		}
+	
+	}
+	focus = {
+		id = ROA_republic_trade
+		icon = GFX_
+		cost = 2.00
+		x = 6
+		y = 3
+		prerequisite = {
+			focus = ROA_democrat_coworkers
+		}
+	
+	}
+	focus = {
+		id = ROA_modernisation_act
+		icon = GFX_
+		cost = 3.00
+		x = 6
+		y = 4
+		prerequisite = {
+			focus = ROA_republic_trade
+		}
+	
+	}
+	focus = {
+		id = ROA_army_reorganisation
+		icon = GFX_
+		cost = 2.00
+		x = 8
+		y = 3
+		prerequisite = {
+			focus = ROA_republican_allies
+		}
+	
+	}
+	focus = {
+		id = ROA_school_reform
+		icon = GFX_
+		cost = 1.00
+		x = 8
+		y = 4
+		prerequisite = {
+			focus = ROA_army_reorganisation
+		}
+	
+	}
+	focus = {
+		id = ROA_minorities_rights
+		icon = GFX_
+		cost = 3.00
+		x = 10
+		y = 3
+		prerequisite = {
+			focus = ROA_progressive_frenemies
+		}
+	
+	}
+	focus = {
+		id = ROA_prison_reform
+		icon = GFX_
+		cost = 1.00
+		x = 10
+		y = 4
+		prerequisite = {
+			focus = ROA_minorities_rights
+		}
+	
+	}
+	focus = {
+		id = ROA_eminent_pact
+		icon = GFX_
+		cost = 5.00
+		x = 8
+		y = 5
+		prerequisite = {
+			focus = ROA_modernisation_act
+		}
+		prerequisite = {
+			focus = ROA_school_reform
+		}
+		prerequisite = {
+			focus = ROA_prison_reform
+		}
+	
+	}
+	
+
+}
